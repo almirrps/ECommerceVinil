@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EcoVini
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Almir
+Implementation-Vendor-Id: com.ecommerce
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ECOVINI
+Created-By: Maven Integration for Eclipse
+
